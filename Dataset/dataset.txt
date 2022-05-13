@@ -1,0 +1,4 @@
+Link -
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv
+
+Full Dataset - https://rees46.com/en/datasets
